@@ -1,0 +1,2 @@
+WARNING:2023-05-17 15:36:17,441:social_media.source_code.api.social_media.functional_apis.get_comments:starting the database connection
+WARNING:2023-05-17 15:36:17,547:social_media.source_code.api.social_media.functional_apis.get_comments:close the database connection
